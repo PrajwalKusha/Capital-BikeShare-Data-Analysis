@@ -54,8 +54,6 @@ The notebook is structured into the following sections:
 3. **Data Aggregation and Insights**
    - Grouped data by hour, day, month, and user type.
    - Calculated summary statistics.
-4. **Visualization**
-   - Created plots to highlight trends and patterns.
 
 ---
 
@@ -93,35 +91,10 @@ The notebook is structured into the following sections:
 ---
 
 ## How to Use This Repository
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Capital-Bikeshare-Analysis.git
-   ```
-2. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Open the notebook in Jupyter or your preferred environment:
-   ```bash
-   jupyter notebook "Capital Bikeshare Analysis.ipynb"
-   ```
-4. Run cells sequentially to reproduce the analysis.
 
----
-
-## Requirements
-- Python 3.8+
-- Libraries:
-  - pandas
-  - numpy
-  - matplotlib
-  - seaborn
-  - jupyter
-
----
-
-## Author
-- **Your Name:** [Your GitHub Profile](https://github.com/yourusername)
+1. Download the data from the provided link.
+2. Unzip the data and combine the CSV files using csvstack.
+3. Use the provided commands in the Jupyter notebook to perform the analysis.
 
 ---
 
