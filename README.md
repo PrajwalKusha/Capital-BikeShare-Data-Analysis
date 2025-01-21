@@ -66,11 +66,9 @@ The notebook is structured into the following sections:
 ---
 
 ## Conclusion and Recommendations
-- Increase bike availability at high-demand stations during peak hours.
-- Implement dynamic pricing to manage demand effectively.
-- Promote annual subscriptions to retain frequent users.
-- Expand operations in areas with emerging demand.
-- Collaborate with weather agencies to provide real-time trip suggestions.
+- **Increase Bike Availability:** Ensure that popular stations like Lincoln Memorial and Columbus Circle / Union Station have sufficient bikes available, especially during peak tourist seasons.
+- **Focus on Maintenance:** Bikes with high usage counts (e.g., W01311, W22553) should be regularly maintained to ensure they remain in good condition for riders.
+- **Targeted Marketing:** Promote the bikeshare system to tourists visiting popular landmarks, as they are a key user group during the summer months.
 
 ---
 
