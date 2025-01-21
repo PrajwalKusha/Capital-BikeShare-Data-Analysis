@@ -1,7 +1,7 @@
 # Capital Bikeshare Trip Analysis
 
 ## Project Overview
-This repository contains an analysis of the Capital Bikeshare trip data for July and August 2018. The data was obtained from [Capital Bikeshare]([url](https://s3.amazonaws.com/capitalbikeshare-data/index.html)). This project analyzes the Capital Bikeshare dataset to uncover insights about bike-sharing patterns, user behavior, and operational metrics. The analysis aims to provide actionable insights for improving the service and optimizing resource allocation.
+This repository contains an analysis of the Capital Bikeshare trip data for July and August 2018. The data was obtained from [Capital Bikeshare](https://s3.amazonaws.com/capitalbikeshare-data/index.html)). This project analyzes the Capital Bikeshare dataset to uncover insights about bike-sharing patterns, user behavior, and operational metrics. The analysis aims to provide actionable insights for improving the service and optimizing resource allocation.
 
 ---
 
@@ -13,7 +13,6 @@ This repository contains an analysis of the Capital Bikeshare trip data for July
 5. [Results and Insights](#results-and-insights)
 6. [Conclusion and Recommendations](#conclusion-and-recommendations)
 7. [How to Use This Repository](#how-to-use-this-repository)
-8. [Requirements](#requirements)
 
 ---
 
@@ -59,25 +58,10 @@ The notebook is structured into the following sections:
 
 ## Results and Insights
 ### Key Takeaways
-1. **Peak Usage Times:**
-   - Morning and evening rush hours (8 AM - 9 AM, 5 PM - 7 PM).
-   - Higher demand during weekdays compared to weekends.
 
-2. **Popular Stations:**
-   - Stations located near metro hubs and central business districts experience the highest traffic.
-   - Specific hotspots include [Station Names, if available from the analysis].
-
-3. **User Demographics:**
-   - Subscribers primarily use the service for commuting, reflected in shorter and frequent trips.
-   - Customers, often casual users, have longer average trip durations.
-
-4. **Seasonal Trends:**
-   - Summer months exhibit a sharp increase in bike usage, correlating with favorable weather conditions.
-   - Winter months show reduced activity, likely due to colder temperatures.
-
-5. **Trip Duration Distribution:**
-   - Majority of trips last under 30 minutes, highlighting short-distance commutes.
-   - Longer trips are more frequent among casual users.
+* Stations near tourist attractions (e.g., Lincoln Memorial, Jefferson Memorial, Smithsonian) dominated both departure and destination rankings.
+* Many riders traveled between the same or nearby stations, indicating short trips likely for sightseeing or leisure.
+* Bikes with high usage counts were likely stationed at popular locations, making them more accessible for frequent trips.
 
 ---
 
