@@ -23,7 +23,7 @@ Bike-sharing systems have become a popular mode of transportation in urban areas
 ---
 
 ## Dataset Description
-- **Source:** [Capital Bikeshare Data Portal][(https://www.capitalbikeshare.com/system-data)](https://s3.amazonaws.com/capitalbikeshare-data/index.html)
+- **Source:** [Capital Bikeshare Data Portal](https://s3.amazonaws.com/capitalbikeshare-data/index.html)
 - **Repository:** The dataset has been uploaded in this repository for reference and use.
 - **Contents:**
   - Start and end times of trips
