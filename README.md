@@ -1,7 +1,7 @@
 # Capital Bikeshare Trip Analysis
 
 ## Project Overview
-This repository contains an analysis of the Capital Bikeshare trip data for July and August 2018. The data was obtained from [Capital Bikeshare](https://s3.amazonaws.com/capitalbikeshare-data/index.html)). This project analyzes the Capital Bikeshare dataset to uncover insights about bike-sharing patterns, user behavior, and operational metrics. The analysis aims to provide actionable insights for improving the service and optimizing resource allocation.
+This repository contains an analysis of the Capital Bikeshare trip data for July and August 2018. The data was obtained from [Capital Bikeshare](https://s3.amazonaws.com/capitalbikeshare-data/index.html). This project analyzes the Capital Bikeshare dataset to uncover insights about bike-sharing patterns, user behavior, and operational metrics. The analysis aims to provide actionable insights for improving the service and optimizing resource allocation.
 
 ---
 
